@@ -1,0 +1,8 @@
+base headings: 40 new headings: 106
+original anchors missing in new: []
+fenced blocks base/new: 9 9 byte-identical: True
+inline-code occurrences lost: {}
+link targets lost: []
+numeric literals lost: []
+repo-wide configuration.md# refs: 15 unresolved: []
+in-doc #anchor links: 16 unresolved: []
