@@ -1,0 +1,25 @@
+old headings missing in new: []
+new headings added: ['### Behavior by posture and harness', '### Not yet on the host', '### Arm owners', '### The report surface', '### Leases and authority', "### Where a handled wake's outcome goes", '### A captain who returns during a turn', '### Paths that hand the wake back', '### Lost ownership', '### A host that dies without a close', '### Setting the boundary', '### At the boundary', '### Codex checkpoint bound', '### Where engine cost is read', '### Claude print mode behavior', '### Model and engine selection']
+fenced blocks old/new: 0 0 identical: True
+link targets missing in new: []
+link targets added: ['#arm-owners', '#leases-and-authority', '#the-report-surface']
+inline code spans missing in new: []
+inline code spans added: []
+
+-- anchor resolution --
+OK  docs/supervision-host.md -> #arm-owners
+OK  docs/supervision-host.md -> #the-report-surface
+OK  docs/supervision-host.md -> #leases-and-authority
+OK  docs/supervision-protocols/supervision-host.md -> ../supervision-host.md#the-park-boundary
+unresolved: []
+exists configuration.md
+exists pi-supervision-branch.md
+exists supervision-protocols/supervision-host.md
+exists verification/supervision.md
+exists watcher-continuity.md
+lines possibly holding >1 sentence: 5
+   1. It starts and verifies the successor watcher cycle and confirms the handling handoff, so the fleet stays supervised while the engine works.
+   2. It computes the branch-claimable rows and publishes the grant.
+   3. It runs one bounded engine turn with the branch prompt and the wake message carrying the record's read-back.
+   4. It releases the branch's leases and grant, whether or not the wake was handled.
+   5. It parks on the successor only for a handled wake.
