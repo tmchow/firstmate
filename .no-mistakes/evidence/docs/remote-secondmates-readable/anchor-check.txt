@@ -1,0 +1,3 @@
+heading anchors: 63
+unresolved anchors: none
+inbound anchor refs checked: 2

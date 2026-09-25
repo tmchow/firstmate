@@ -1,0 +1,14 @@
+fences before/after: 10 10 identical-seq: True missing: []
+headings before/after: 9 63
+missing headings: []
+new headings: ['## Find a topic', '## Where the remote agent runs', '### SSH access from the primary', '### Remote clone and entrypoint', '### Doctor bootstrap over plain SSH', '### The remote job worker', '### Job lanes and preemption', '### Cancelled and orphaned jobs', '### What the remote account must provide', '### Worker PATH order', '### nvm version selection', '### Symlinked directories', '### Stale Herdr clients', '### How the entrypoint resolves git', '### Wrappers for version-managed tools', '### Check a host', '### Repair with --fix', '### How the Herdr launch agent starts its server', '### How the guard converges on one server', '### Other repairs and limits', '### Steps only a person can take', '### Required remote tools', '### Project origins', '### Origin validation', '### Delivery mode', '### What the seed does', "### The seed's readiness gate", '### Failure and rollback', '### The parent record', '### Local and remote routes together', '### Launch or recover', '### Refused and unsupported launches', '### Liveness recovery', '### Inventory reconcile for markerless routes', '### Send a routed request', '### Retries and safe resends', '### Swallowed doorbells', '### Remote reads', '### Replies and the parent channel', '### How remote lines are mirrored', '### Replay identity', '### Status, decisions, and correlation', '### Transport normalization', '### When an offered document cannot be fetched', '### Reply settlement', '### Source log continuity', '### SSH exit 255 and unavailable homes', '### Inherited-material transfer', '### Relaunch a live remote second mate', '### Firstmate code convergence', '### Retire a remote second mate', '### Portable tests', '### What the portable tests cannot prove', '### Real-host smoke test']
+missing link targets: []
+new link targets: ['#backlog-handoff', '#non-interactive-tool-contract', '#normal-operation', '#prerequisites', '#provision-a-route', '#readiness-repair-and-the-human-steps', '#required-remote-tools', '#sync-update-and-retirement', '#verification']
+missing code identifiers: []
+missing quoted strings: []
+260:Every claude pane under such a server falls back to a stale plaintext credentials file and reports "Login expired".
+264:Herdr's own SSH remote attach starts a server born in another session when it finds none.
+326:| `<remote-home>` | A separate absolute path for the persistent secondmate home that must not overlap the code root. |
+373:The seed gates readiness in these steps:
+546:That note never enters the open-decision fold, because the reader cannot tell a report that is still being written from one that will never exist.
+547:A decision raised on that ambiguity could stand open describing a transfer that later succeeded.
