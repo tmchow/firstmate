@@ -1,0 +1,24 @@
+code blocks before/after: 2 2
+code blocks missing/altered: 0
+code blocks sequence identical: True
+headings before/after: 15 57
+original headings missing: []
+anchors lost: []
+html anchors lost: []
+link targets dropped: []
+link targets added: ['#active-limits', '#client-selection', '#composer-and-injection-safety', '#current-transport-behavior', '#destructive-lab-safety', '#endpoint-metadata', '#regression-entry-points', '#restart-and-liveness-behavior', '#setup', '#watching-and-task-containers']
+unresolved in-doc anchors: []
+unresolved relative file links: []
+inbound anchor refs: 6 unresolved: []
+lines possibly holding >1 sentence: 29
+  > 1. Reads `status --json --session <name>` from each distinct `herdr` on `PATH`, in order.
+  > 2. Adopts the first one the running server reports compatible.
+  > 3. Retries the command on it once.
+  > 1. Firstmate atomically publishes a three-field version 1 journal containing a random 128-bit base64url token, before asking Herdr to create anything.
+  > 2. After the new workspace converges to one exact task endpoint beneath one exact parent workspace id, the journal advances to a version 2 binding.
+  > 1. Verify the close would empty the workspace.
+  > 2. When needed, reposition the doomed workspace behind the focused one through the verified `workspace.move` transport.
+  > 3. Prove the pane holds one lone idle shell.
+  > 4. End that shell, so Herdr removes the emptied workspace through its focus-preserving pane-death path.
+  > 1. Acquire the existing task-id spawn lock, and then the shared named-session presentation lock.
+non-list lines possibly holding >1 sentence: 0
