@@ -1,0 +1,9 @@
+old headings: 6 new headings: 38
+original headings missing from new: none
+original anchors missing: none
+inbound anchor harness-transports present: True
+inbound anchor shared-wrapper-and-safety present: True
+old fenced blocks: 0 new: 0
+every original fenced block byte-identical in new: True
+original link targets dropped: none
+original inline-code identifiers dropped: none
