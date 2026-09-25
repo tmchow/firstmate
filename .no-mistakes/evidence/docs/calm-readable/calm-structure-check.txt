@@ -1,0 +1,11 @@
+old headings kept (in order): True missing: []
+new headings added: ['## Harness support and default', '## Shared preservation rule for assistant text', '### Working boat', '### Boat motion', '### Boat position between working periods', '### What Calm hides on Pi', '### What stays unchanged on Pi', '### What stays visible on Pi', '### Pi versions and missing API seams', '### Built-in tool override collisions', '### Owning docs and files', '### Pi regression entry points', '### The firstmate-calm mod', '### Enabling function hooks', '### Toggling Calm on Claude Code', '### Working sailboat on Claude Code', '### What Calm hides on Claude Code', '### What stays unchanged on Claude Code', '### Claude Code support bounds', '### Claude Code regression entry points']
+fenced blocks old/new: 2 2 identical set: True
+link targets missing: []
+link targets added: ['#pi-compatibility', '#shared-preservation-rule-for-assistant-text']
+inline code spans missing: []
+inline code spans added: []
+numbers missing: []
+
+intra-doc anchors unresolved: []
+inbound anchors into calm.md: ['claude-code', 'pi-compatibility'] unresolved: []
