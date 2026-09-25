@@ -1,0 +1,6 @@
+Section names cited next to docs/pi-supervision-branch.md in bin/ and tests/, checked against headings in the rewritten doc:
+OK      Autonomy
+OK      Components and their owners
+OK      Heartbeat routing
+OK      Postures
+MISSING Postures\

@@ -1,0 +1,7 @@
+old headings missing in new: []
+new headings added: ['## Find a topic', '## Overview', '### What the branch handles while attended', '### How outcomes reach main', '### Design source', '### Pi-only scope', '### Wake dispatch', '#### Decision-owned rows', '#### Heartbeats during dispatch', '### The branch itself', '#### One conversation per main session', '#### Guarded side effects and delivery ownership', '#### Report scoping', '#### Broken-branch latch and recovery', '### Branch model and effort selection', '### Branch system prompt', '### Outcome store', '### Consistency', '### Autonomy', '#### Pre-drain recheck', '### The explicit delivery queue', '### Reads that stay synchronous', '### Bounded cost', '### Ordering limits', '### Index repair', '### Re-anchoring at each main session start', '### Mirrored text is context, not instructions', '### The visible captain entry', '### Processing a captain outcome on main', '### Re-presentation pacing', '### Ownership and verdict rules', '### Co-present main-owned rows', '### Reporting the review', '### Expected cache reuse', '### Branch model and providers', '### No further caching machinery', '### Who reads the record', '### While the record exists', '### Authority relocation', '### The authority invariant', '### Cleanup after a landed pull request', '### Portable regressions', '### Live guards']
+fenced blocks old/new: 0 0 all old preserved byte-identical: True
+old link targets missing: set()
+broken in-page anchors: []
+missing relative link files: []
+old inline-code identifiers missing: []
