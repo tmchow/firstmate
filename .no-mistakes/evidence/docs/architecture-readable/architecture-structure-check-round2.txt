@@ -1,0 +1,5 @@
+original headings: 18 missing in new: []
+links checked: 109 unresolved: []
+fenced blocks old: 0 new: 0 old blocks all present verbatim: True
+original link targets dropped: []
+original code spans dropped: []
