@@ -1,0 +1,10 @@
+old headings: 7 new headings: 32
+dropped headings: []
+dropped anchors: []
+old fences: 0 new fences: 0 fences preserved: True
+dropped link targets: []
+dropped backticked identifiers: []
+dropped quoted strings: []
+unresolved relative/intra-doc links in new doc: []
+inbound anchors referenced in repo: ['compatibility-limits', 'guard-predicates', 'harness-integrations', 'regression-coverage']
+inbound anchors missing in new doc: []
