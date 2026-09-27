@@ -1,0 +1,32 @@
+fenced blocks before/after: 0 0
+all original fenced blocks present byte-identical, in order: True
+headings before/after: 18 96  missing original headings: []
+missing anchors: []
+link targets before/after: 59 86  dropped: []  added: ['#agents-that-are-gone', '#away-mode-and-the-away-record', '#busy-panes-past-the-busy-bound', '#busy-state-is-semantic-per-adapter', '#current-state-reads', '#deferring-for-a-parked-validation-gate', '#delivery-modes-are-explicit-per-task', '#dispatch-profiles', '#durable-wake-queue', '#event-driven-supervision', '#guards-and-backstops', '#local-clones-stay-fresh', '#no-mistakes-gate-authority-boundary', '#open-decisions-and-drain-sections', '#operational-memory-routing', '#optional-relay', '#optional-secondmates', '#project-memory-belongs-to-projects', '#registered-secondmate-current-state', '#restart-proof', '#runtime-session-backends', '#secondmate-liveness-recovery', '#secondmate-wake-queue-stalls', '#self-updates-stay-safe', '#supervision-block-and-watcher-arming', '#wedge-escalation-and-declared-waits', '#worktrees-not-branches-in-your-checkout']
+inline-code identifiers before/after (unique): 369 369  dropped identifiers: []
+prose lines that look like multiple sentences: 29
+   1. A crew that declared an external wait (`paused:`) or a verified captain-held transfer.
+   2. In a home that armed `config/wedge-defer-parked-gate`, a crew whose own validation gate awaits the supervisor's still-open decision for that run.
+   1. The no-progress interval reaches `FM_SECONDMATE_WAKE_STALL_SECS`, and the mate is not provably inside an active turn.
+   2. A mate whose semantic busy class is exactly idle, whose agent is alive, and whose composer is not pending is rung once so its own home can drain.
+   3. The primary then appends one keyed `check` wake naming the mate, row sequence, and observed idle interval.
+   1. Revalidates the same evidence.
+   2. Removes the runnable check first.
+   3. Removes its registration and data sidecars.
+   4. Removes the receipt last.
+   1. Forks the watcher as a tracked child.
+
+--- second pass ---
+in-page anchors used: 27  unresolved: []
+relative file links: 38  missing targets: []
+prose lines still containing 2+ sentences: 0
+
+--- third pass ---
+numeric values dropped: []
+quoted strings dropped: []
+safety qualifier word types dropped: []
+  'never' before/after: 59/61
+  'must' before/after: 2/2
+  'only' before/after: 109/114
+  'not' before/after: 58/62
+  'cannot' before/after: 20/20
